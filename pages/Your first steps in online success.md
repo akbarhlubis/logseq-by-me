@@ -1,0 +1,24 @@
+- Topic Overview
+	- There are many ways to promote a business online. But before you can get started, you should familiarise yourself with how these digital channels work, which options are best suited to you, and how to set up a clear plan or strategy that will help you achieve your goals and assess your results.
+- Your Online Goals
+	- Key Learning
+		- Taking your business online offers a lot of opportunities, but with so many options, it's easy to spin your wheels and lose focus. Setting specific goals can help as you begin to navigate the digital world.
+	- Selesai
+- Building your online presence
+	- Key Learning
+		- Let’s take a look at all the options for launching your business online, step by step. We’ll cover:
+			- local listings
+			- social media and video
+			- websites and mobile apps.
+	- Selesai
+- Marketing your online presence
+	- Key Learning
+	  collapsed:: true
+		- You’re online, so now it’s time to bring in the customers you want. We’ll review how to best help them find you, using some tried-­and-­tested online marketing avenues:
+			- search engines
+			- other websites
+			- social media
+			- email
+		- Selesai
+- Analyse and adapt
+-

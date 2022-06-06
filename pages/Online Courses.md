@@ -1,0 +1,7 @@
+- Bersertifikat
+	- Kelas [[Fundamentals of digital marketing]] | [Link Kelas](https://learndigital.withgoogle.com/digitalunlocked/course/digital-marketing)
+	- Kelas [[Sertifikasi YoutTube Music]] | [Link Kelas](https://skillshop.exceedlms.com//student/path/18572-sertifikasi-youtube-music)
+	- Kelas [[Pengenalan Google Analytics]] | [Link Kelas](https://analytics.google.com/analytics/academy/course/6)
+	- Kumpulan Kelas [[Pemrogaman Mobile]] | [Link Kursus](https://developer.android.com/courses)
+- Tidak Bersertifikat
+	- Selesai

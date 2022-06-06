@@ -1,0 +1,1 @@
+- Merupakan karakter yang memberikan arahan kepada pemain yang akan menempuh perjalanan selama petualangan berlangsung

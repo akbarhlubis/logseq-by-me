@@ -1,0 +1,17 @@
+- Dalam game kami ada beberapa efek suara, yaitu:
+	- Backsound Music
+	- Dialog Interaksi dengan Game
+		- Tombol: suara klik tombol
+		- Pintu Layer
+			- Menyelesaikan Tantangan: Hmm, Selesaikan dulu misinya ya.
+			- Benar: Hore, Kamu benar. Silakan Masuk.
+			- Salah: Ups. Salah!
+		- Item Materi
+			- Suara Koin
+			- Membaca Materi
+		- Stage Layer
+			- Gagal: Yahh kamu gagal... jangan menyerah!
+			- Berhasil: Selamat! .....(kira kira apa lanjutannya?)
+		- Kuis
+			- Benar: Hore, Kamu benar.
+			- Salah: Ups. Salah!

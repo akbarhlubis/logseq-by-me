@@ -1,0 +1,25 @@
+- Ringkasan
+	- Game Edukasi mata pelajaran Jaringan & Komputer Dasar yang mempelajari tentang Urutan Layer OSI
+- Game Analysis
+	- Memberikan edukasi tentang susunan dari tingkatan OSI Layer kepada pemain agar mendapat pemahaman yang mudah dimengerti dan menyenangkan.
+- Mission Statement
+	- berfokus dengan karakter Sidata yang diberi perintah oleh Kang User untuk pergi menuju sisi yang lain dari OSI Tower yang mencekam
+- Genre
+	- Education
+	- Action
+	- Side Scrolling
+	- 2D Platformer
+- Target Audience
+	- Targetnya adalah murid kelas 10 Sekolah Menengah Kejuruan yang dari jurusan Teknik Komputer Jaringan untuk memberikan pemahaman tentang OSI Layer dan urutannya agar lebih mudah.
+- Storyline
+	- Berkisah tentang petualangan siData yang berusaha menghadapi rintangan untuk menuju sisi lain dari lapisan layer karena diberi perintah oleh User untuk segera kesana..
+- Character
+	- SiData
+	- Hekelboi
+	- Kang User
+- Selesai
+- Referensi
+	- [Membuat level dengan metode super mario](https://gamedevelopment.tutsplus.com/id/articles/making-levels-with-the-super-mario-world-method-skill-themes-part-2--cms-26110)
+	- [Panduan Merancang Level game untuk pemula](https://gamedevelopment.tutsplus.com/id/tutorials/a-beginners-guide-to-designing-video-game-levels--cms-25662)
+	- [Membuat sistem Dungeon](https://gamedevelopment.tutsplus.com/id/tutorials/create-a-procedurally-generated-dungeon-cave-system--gamedev-10099)
+	- [Buku Referensi Consctruct dan Game Development](https://drive.google.com/drive/folders/1ZLV2ObwL-VOVwnMopq2C2_07FhKQVJ2_)

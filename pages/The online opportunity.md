@@ -1,0 +1,15 @@
+- Key Learnings
+	- Dive into the Digital Unlocked and explore how you can make the most of online opportunities. This introductory video will give you a brief overview of what you can learn throughout the course and highlight some of the benefits of building or polishing your digital skills.
+	- It's never been easier, cheaper or more beneficial for your business to get online. Don’t be intimidated by the breadth of opportunities in digital. In this video we’ll look at:
+		- the core components of a digital presence
+		- how they relate to YOUR business
+		- how to get started.
+- Intro to Digital Unlocked
+	- Today, our online experience is so much more than just checking emails.
+	- As the time we spend online increases, so do the digital opportunities available.
+	- So whether you own a business yourself or would like to work for one, now is a great time to jump in and see how you can get involved in the digital world.
+	- Where to _Start?_
+	- Google Digital Unlocked provides you with a simple way to navigate digital marketing concepts and gain the knowledge you need to feel confident.
+- Your Digital Oportunity
+	- we’ll discuss the core components of digital, how they relate to YOUR business and how to get started.
+	-

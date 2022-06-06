@@ -1,0 +1,42 @@
+- Topic Overview
+	- From websites to local listings, mobile apps to social media, there are lots of ways to be found online. If a website is the best fit for your goals, you'll need to have a basic grasp of how they work. Even more importantly, having design and usability best practices under your belt will help you build a website that tells your story well, and allow your customers to find what they need.
+- Choosing your online presence
+	- Key Learning - In this lesson we’ll explore just how important being online is these days, as well as some common ways to do it, including:
+	  collapsed:: true
+		- websites
+		- local business listings and review sites
+		- social media
+		- mobile apps.
+	- we’ll introduce you to all the ways you can create an online presence—from websites and social media to local business listings and review sites.
+	- The most obvious way to “go digital” is with a website. Early websites weren’t much more than online brochures that described the who, what and where.
+	- site can help people do research, chat with experts, read customer reviews, watch videos, buy things, track orders – and much, much more.
+	- your site actually needs to do in order to support your business goals
+	- it’s also possible to do business online without a website. If you own a bakery, for example, you want customers to be able to find you, website or not.
+	- You can also use social media as your digital presence.
+- How Website Works
+	- Key Learning - If your business needs a website, the first step is to understand the basics. Here’s a quick summary of what you’ll need to know: what web servers do, how domain names work, and how your website uses these.
+	- A website is your business’s home on the Internet. It’s where potential customers can come and learn about your business and what it has to offer them.
+	- server is a computer connected to the Internet, with software that allows it to store or 'host' the pieces of your website: the code, the images, the video clips and anything else that makes up your site.
+	- There are many companies and services that will rent you space on a server and host your website.
+	- Every single server in the world has its own address. This is called an IP address, which is short for internet protocol.
+- Key website ingredients
+	- Key Learning - Build and blend them right, and you’re sure to succeed. In this lesson, we’ll cover: your name, the website organisation, and text, photos and other interactive elements.
+	- The goal is making it easy for customers to find their way around and get what they want.
+	- When choosing a domain name, you first need to check if the one you want is available.
+	- ### _**"A good domain name is one that people can easily remember."**_
+	- How you organise the site is very important. Start by thinking about the websites you visit regularly.
+	- Now, decide what kind of content you want to offer, and then group it together in ways that make sense.
+	- The pages and sections you see on most websites: things like 'About' and 'Contact' pages. Your website’s Contact page might include your address, phone number, email and a map with directions.
+	- The About page might tell the story of your business and include photos of some of your best work.
+	- First, you’ll notice those navigation signposts, like the About and Contact headings. They should appear on every page of your site so that people can always get to where they want to go, or back to where they’ve been.
+	- Text and images can also be set up to link to other pages on the Internet when they’re clicked. These are known as 'hyperlinks', or shortcuts to other pages either on your site or elsewhere on the web
+- Websites and your business goals
+	- Key Learning - consider how to combine your business goals with what your visitors want. using your site to further your business goals, thinking like a customer, telling your story online.
+	- We’ll walk through how to think like a customer and design your website accordingly, all without losing sight of your own goals.
+	- As you do this, keep your goals in mind, but also consider what your visitors are looking for.
+	- ### _**"Marrying what you want people to do on your site and what they want to do is the secret to success."**_
+	- Think of the last time you went to a website looking for a phone number. Maybe you wanted to ring a shop to ask a question or get directions. Was the number easy to find?
+	- Also, it’s a good idea to allow mobile users viewing your site to call you with just one click.
+- Make your website easy to use
+	- Key Learning - Visitors to your website should be able to navigate and interact with your site easily – that's called usability.
+	-
