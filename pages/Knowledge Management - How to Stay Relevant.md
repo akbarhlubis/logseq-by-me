@@ -102,6 +102,7 @@ title:: Knowledge Management - How to Stay Relevant
 			  card-next-schedule:: 2022-01-23T01:15:34.310Z
 			  card-last-reviewed:: 2022-01-19T01:15:34.311Z
 			  card-last-score:: 3
+			  collapsed:: true
 				- sederhananya: daya pikir
 				- cognitive skills adalah kemampuan otak untuk (termasuk tapi tidak terbatas):
 					- menyimpan informasi

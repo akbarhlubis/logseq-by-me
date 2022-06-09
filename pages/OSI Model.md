@@ -4,7 +4,6 @@
 	- **WHEN and WHERE** Di Eropa pada tahun 1977
 	- **WHY** agar terbentuknya komunikasi jaringan komputer yang lebih luas walaupun berbeda vendor atau produsen. Kerena sebelum dibentuknya OSI layer ini, komunikasi jaringan komputer sangat bergantung pada vendor atau produsen sehingga komunikasi jaringan pun sangat terbatas
 - Cara Kerja
-  collapsed:: true
 	- ![BeisIuP9g2zG_h24A6ZZhtqixK0WCwfMrchgg7clm8OCh8qyyAP5JWuXeeSviVMAGm25nAZhmrVRbmmI7EgDvGlreX5Pr6UScA=w1200-h630-p-k-no-nu.gif](../assets/BeisIuP9g2zG_h24A6ZZhtqixK0WCwfMrchgg7clm8OCh8qyyAP5JWuXeeSviVMAGm25nAZhmrVRbmmI7EgDvGlreX5Pr6UScA=w1200-h630-p-k-no-nu_1649591926233_0.gif)
 	- Informasi berawal dari layer Application. Informasi kemudian melewati layer presentation dan layer session. Pada tahap ini biasanya belum dilakukan transformasi data. Informasi yang melalui ketiga layer ini disebut PDU (Protocol Data Unit) atau data saja.
 	- Setelah sampai di layer Transport, data akan mengalami transformasi ke bentuk lain yang disebut segmen.
@@ -19,35 +18,34 @@
 		- Application Layer
 			- Menyediakan user interface
 			- Protokol
-				- DNS(Domain Name System) 
-				  collapsed:: true
+				- DNS(Domain Name System)
+					- DNS adalah singkatan dari Domain Name System. DNS merupakan sietem yang memabntu mempermudah interaksi manusia dengan komputer. Manusia terbiasa menggunakan nama yang terbuat dari alfabet. Misalnya nama seseorang, nama barang, ataupun nama tempat.
 					- berjalan pada port 53
 					- melakukan address mapping.
 					- Layanan Web Browser, Email.
 					- www.detik.com dengan IP 192.120.230.12
 					- Rawan oleh serangan poisoning dan jika salah konfigurasi dapat disalahgunakan untuk melakukan zone full transfer.
-				- FTP(File Transfer Protocol) 
-				  collapsed:: true
-					- Merupakan standar untuk pentransferan berkas seperti melakukan pengunduhan (download) dan penggugahan (upload) berkas-berkas komputer antara klien FTP dan server FTP.
+				- FTP(File Transfer Protocol)
+					- **Pengertian:** Merupakan standar untuk pentransferan berkas seperti melakukan pengunduhan (download) dan penggugahan (upload) berkas-berkas komputer antara klien FTP dan server FTP.
 					- Serangan pada layanan ini bisa berupa eksploitasi kesalahan konfigurasi directory permission dan atau sniffing password yang berbentuk cleartext.
-				- DHCP (Dynamic Host Configuration Protocol)  
-				  collapsed:: true
+				- DHCP (Dynamic Host Configuration Protocol)
 					- Memudahkan pengalokasian alamat IP dalam suatu jaringan
 					- dipasang di jaringan lokal, maka semua komputer yang tersambung di jaringan akan mendapatkan alamat IP secara otomatis
 					- disampaikan kepada client yang berisikan informasi tentang konfigurasi jaringan.
 				- SMTP (Simple Mail Transfer Protocol)
-				  collapsed:: true
 					- protokol yang umum digunakan untuk pengiriman surat elektronik (e-mail) di Internet.
 					- berfungsi untuk mengirimkan pesan-pesan e-mail dari e-mail klien ke e-mail server, mengirimkan e-mail kepada lokal account, dan menyiarkan ulang e-mail antara server-server SMTP.
 				- HTTP/S
+					- Hypertext Transfer Protocol atau disingkat HTTP adalah sebuah protokol jaringan lapisan aplikasi yang digunakan untuk membantu proses pertukaran data dalam internet antar komputer satu dengan lainnya.
 					- Mentransfer dokumen dalam World Wide Web web browser
 					- berfungsi menjawab antara client dan server, dan membuat hubungan TCP/IP ke port tertentu di host yang jauh.
-				- Telnet
 			- ![osi-model10.png](../assets/osi-model10_1649579311045_0.png)
 		- Presentation Layer
 			- Menyajikan data dan menangani proses seperti enkripsi data
 			- Protokol
-				-
+				- 1
+				- 2
+				- 3
 			- ![osi-model9.png](../assets/osi-model9_1649592444046_0.png)
 		- Session Layer
 		  collapsed:: true

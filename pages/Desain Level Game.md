@@ -40,13 +40,32 @@
 			- 1.1 Application Layer
 				- Mencari pintu yang ^^benar^^(Presentation Layer)
 				- Menyelesaikan Misi: Mencari 5 Protokol (HTTP, SMTP, FTP, HTTPS, DNS)
-				- Tidak terdapat Hidden Place
+				- Tidak terdapat Musuh
 				- Quis
-					- Apa kepanjangan dari HTTP
-					- Mengapa SMTP digunakan sebagai bagian dari OSI?
+					- Apa kepanjangan dari HTTP?
+						- A. Hypertext Transfer Protocol (BENAR)
+						- B. Hydrogen Transfer Predator
+						- C. Hyena To Predator
+						- D. Hypertext Transfer Predator
+					- Apa Fungsi dari SMTP?
+						- A. Sebagai Protokol untuk pengiriman surat elektronik (e-mail) di Internet (BENAR)
+						- B.  Sebagai alat bantu proses pertukaran data dalam internet antar komputer satu dengan lainnya.
+						- C. Sebagai penyedia kerangka logika terstruktur bagaimana proses komunikasi data berinteraksi di Perangkat Keras
+					- Pada protokol FTP apa sebutan server yang saling tranfer?
+						- A. FTP Server dan FTP Client (BENAR)
+						- B. FTP Server dan FTP Host
+						- C. FTP Router dan FTP Client
+					- Pada OSI Layer, DNS berada di layer apa?
+						- A. Presentation Layer
+						- B. Data link Layer
+						- C. Application Layer (BENAR)
+					- Pada OSI Layer, HTTP berada di urutan layer ke berapa?
+						- A. Layer ke 7 (BENAR)
+						- B. Layer ke 6
+						- C. Layer ke 5
 			- 1.2 Presentation Layer
 				- Mencari pintu yang ^^benar^^(Session Layer)
-				- Menyelesaikan Misi: Mencari 5 Protokol (SSL,XDR,NDR,NCP,LPP)
+				- Menyelesaikan Misi: Mencari 5 Format Konversi data untuk di transfer (jpeg, gif, )
 			- 1.3 Session Layer
 				- Mencari pintu yang ^^benar^^(Presentation Layer)
 				- Menyelesaikan Misi: Mencari 5 Protokol (NetBios, NetbBeui, ADSP,PAP,SPDU)

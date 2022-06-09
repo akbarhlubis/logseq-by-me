@@ -30,7 +30,7 @@
   :block/updated-at 1649301141967}
  {:block/name "desain level game",
   :block/created-at 1649604117192,
-  :block/updated-at 1654250871068}
+  :block/updated-at 1654610830564}
  {:block/name "doing",
   :block/created-at 1649301141967,
   :block/updated-at 1649301141967}
@@ -58,6 +58,9 @@
  {:block/name "jun 6th, 2022",
   :block/created-at 1654471887124,
   :block/updated-at 1654471887124}
+ {:block/name "jun 7th, 2022",
+  :block/created-at 1654534802973,
+  :block/updated-at 1654534802973}
  {:block/name "kang user",
   :block/created-at 1649629517456,
   :block/updated-at 1649629567253}
@@ -75,7 +78,7 @@
   :block/updated-at 1649808040389}
  {:block/name "osi model",
   :block/created-at 1649603026738,
-  :block/updated-at 1654502815214}
+  :block/updated-at 1654595217157}
  {:block/name "pemrogaman game",
   :block/created-at 1649576389740,
   :block/updated-at 1654251948399}
@@ -88,6 +91,9 @@
  {:block/name "prototipe",
   :block/created-at 1649667876512,
   :block/updated-at 1649688050710}
+ {:block/name "readme",
+  :block/created-at 1654520768948,
+  :block/updated-at 1654520768948}
  {:block/name "rumsfeldian personal growth matrix",
   :block/created-at 1649301141967,
   :block/updated-at 1649301141967}
