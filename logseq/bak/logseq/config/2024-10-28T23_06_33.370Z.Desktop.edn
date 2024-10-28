@@ -166,7 +166,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :graph/settings {:journal? true
- :builtin-pages? false
+ :builtin-pages? true
  :orphan-pages? false}
  :favorites ["Pemrogaman Game"]
 
