@@ -1,3 +1,5 @@
+public:: true
+
 - Pengertian
 	- **WHAT** Model OSI (Open System Interconnection) Menyediakan kerangka logika terstruktur bagaimana proses komunikasi data berinteraksi melalui jaringan.
 	- **WHO** Diciptakan oleh International Organization for Standardization (ISO)
@@ -12,7 +14,6 @@
 	- Terakhir, frame mengalir ke layer physical dan kemudian diubah menjadi bits atau bit-bit. Pada layer ini, bit-bit diubah menjadi besaran fisik, seperti arus listrik, gelombang elektromagnetik, dan sebagainya.
 - Layer Layer
 	- Ilustrasi Alur Kerja
-	  collapsed:: true
 		- ![kcla14260220.webp](../assets/kcla14260220_1649593328195_0.webp)
 	- Upper Layer: Bertanggung Jawab Terhadap **Host** <ins></ins>
 		- Application Layer
